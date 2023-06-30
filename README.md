@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">
+Hi there 👋 I'm Aditya Yadav 👨‍💻
+</h1>
 
-<!--
-**adityayadav012552/adityayadav012552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-yadav-800a7a21a/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I can crack my wrist all day.
+- 🌱 I’m currently learning Python and ML.
+- 📫 How to reach me: adityayadav012552@gmail.com
+
+</br>
+<p align="center">
+  
+  ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityayadav012552&show_icons=true&theme=transparent&include_all_commits=true) 
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityayadav012552&layout=donut-vertical&theme=transparent)](https://github.com/adityayadav012552)-->
+</p>
