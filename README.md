@@ -25,7 +25,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=adityayadav012552&show_icons=true&theme=transparent&include_all_commits=true" alt="Aditya's GitHub stats" />
 
 <h3>Technologies Learned</h3>
-  <p>
+<p>
     </br>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
@@ -53,9 +53,9 @@
     <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />&nbsp;
-  </p>
+</p>
+<hr>
 
-</br>
 <details>
 <summary>More about me</summary>
     <p>
